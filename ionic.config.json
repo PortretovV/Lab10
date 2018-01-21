@@ -4,5 +4,7 @@
   "type": "ionic-angular",
   "integrations": {
     "cordova": {}
-  }
+  },
+  "v2": true,
+  "typescript": true
 }
